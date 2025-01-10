@@ -1,4 +1,4 @@
 # proyek-akhir
-source code proyek akhir pH Sensor dan TDS Sensor menggunakan Arduino.
+source code file pH_tds.ino
 
 Video Penggunaan : https://youtu.be/ING7YQmIpPk
